@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"PCP",
+    "cGg",
+    "PCP"
+  ],
+  "key": {
+  	"P": {
+      "tag": "minecraft:planks"
+    },
+    "c": {
+      "tag": "c:chests"
+    },
+    "C": {
+      "item": "tfc:brass_mechanisms"
+    },
+    "G": {
+      "item": "tfc:metal/trapdoor/steel"
+    },
+    "g": {
+      "item": "tfc:metal/grate/steel"
+    }
+  },
+  "result": {
+    "id": "toms_storage:storage_terminal"
+  }
+}

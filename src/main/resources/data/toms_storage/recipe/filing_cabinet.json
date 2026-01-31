@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"SCS",
+    "ICI",
+    "SCS"
+  ],
+  "key": {
+  	"S": {
+      "item": "tfc:metal/grate/steel"
+    },
+    "C": {
+      "tag": "c:chests"
+    },
+    "I": {
+      "tag": "c:ingots/steel"
+    }
+  },
+  "result": {
+    "id": "toms_storage:filing_cabinet"
+  }
+}

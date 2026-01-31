@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"PCP",
+    "cDc",
+    "PEP"
+  ],
+  "key": {
+  	"P": {
+      "tag": "minecraft:planks"
+    },
+    "c": {
+      "tag": "c:chests"
+    },
+    "D": {
+      "item": "tfc:brass_mechanisms"
+    },
+    "C": {
+      "item": "tfc:brass_mechanisms"
+    },
+    "E": {
+      "item": "tfc:brass_mechanisms"
+    }
+  },
+  "result": {
+    "id": "toms_storage:inventory_connector"
+  }
+}
