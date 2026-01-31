@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+  	{
+  		"item": "toms_storage:item_filter"
+  	},
+  	{
+      "item": "minecraft:leather"
+  	},
+  	{
+      "item": "minecraft:leather"
+  	}
+  ],
+  "result": {
+    "id": "toms_storage:tag_item_filter"
+  }
+}

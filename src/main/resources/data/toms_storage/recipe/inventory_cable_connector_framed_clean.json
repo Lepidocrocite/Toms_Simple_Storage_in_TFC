@@ -1,0 +1,16 @@
+{
+  "type":"tfc:advanced_shapeless_crafting",
+  "ingredients": [
+  	{
+  		"item": "toms_storage:inventory_cable_connector_framed"
+  	},
+  	{
+      "tag": "c:tools/knife"
+  	}
+  ],
+  "primary_ingredient":{"tag":"c:tools/knife"},
+  "remainder":{"modifiers":[{"type":"tfc:damage_crafting_remainder"}]},
+  "result": {
+    "id": "toms_storage:inventory_cable_connector_framed"
+  }
+}

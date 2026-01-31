@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"  P",
+    "CCE",
+    "  P"
+  ],
+  "key": {
+  	"P": {
+      "tag": "minecraft:planks"
+    },
+    "C": {
+      "item": "toms_storage:inventory_cable"
+    },
+    "E": {
+      "item": "tfc:brass_mechanisms"
+    }
+
+
+  },
+  "result": {
+    "id": "toms_storage:inventory_cable_connector"
+  }
+}

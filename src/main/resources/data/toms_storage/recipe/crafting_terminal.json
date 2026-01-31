@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	" d ",
+    " t ",
+    " c "
+  ],
+  "key": {
+  	"d": {
+      "item": "tfc:brass_mechanisms"
+    },
+    "c": {
+      "tag": "tfc:workbenches"
+    },
+    "t": {
+      "item": "toms_storage:storage_terminal"
+    }
+  },
+  "result": {
+    "id": "toms_storage:crafting_terminal"
+  }
+}
